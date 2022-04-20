@@ -1,0 +1,15 @@
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\obj\Debug\net6.0\HW2_zadacha_bonus.csproj.AssemblyReference.cache
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\obj\Debug\net6.0\HW2_zadacha_bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\obj\Debug\net6.0\HW2_zadacha_bonus.AssemblyInfoInputs.cache
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\obj\Debug\net6.0\HW2_zadacha_bonus.AssemblyInfo.cs
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\obj\Debug\net6.0\HW2_zadacha_bonus.csproj.CoreCompileInputs.cache
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\bin\Debug\net6.0\HW2_zadacha_bonus.exe
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\bin\Debug\net6.0\HW2_zadacha_bonus.deps.json
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\bin\Debug\net6.0\HW2_zadacha_bonus.runtimeconfig.json
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\bin\Debug\net6.0\HW2_zadacha_bonus.dll
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\bin\Debug\net6.0\HW2_zadacha_bonus.pdb
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\obj\Debug\net6.0\HW2_zadacha_bonus.dll
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\obj\Debug\net6.0\refint\HW2_zadacha_bonus.dll
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\obj\Debug\net6.0\HW2_zadacha_bonus.pdb
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\obj\Debug\net6.0\HW2_zadacha_bonus.genruntimeconfig.cache
+C:\Users\444\Desktop\учеба\Знакомство с языками программирования (лекции)\Home_Work\Home_Work_2\HW2_zadacha_bonus\obj\Debug\net6.0\ref\HW2_zadacha_bonus.dll
